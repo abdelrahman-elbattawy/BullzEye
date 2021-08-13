@@ -9,7 +9,7 @@
 
 A simple game that guesses the number similar to a target
 
-![screenshot](https://s6.gifyu.com/images/ezgif.com-gif-maker99a9e0287e821943.gif)
+![screenshot](https://github.com/abdoelbattawy/BullzEye/blob/main/ezgif.com-gif-maker.gif)
   <br>
 
 ## Installation 
