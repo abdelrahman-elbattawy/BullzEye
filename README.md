@@ -7,7 +7,8 @@
   <br>
 </h1>
 
-A simple game that guesses the number similar to a target
+This is the awesome game of Bull's Eye where you can win points and earn fame by dragging a slider.
+Your goal is to place the slider as close as possible to the target value. The closer you are, the more points you score.
 
 ![screenshot](https://github.com/abdoelbattawy/BullzEye/blob/main/ezgif.com-gif-maker.gif)
   <br>
