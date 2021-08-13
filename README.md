@@ -7,6 +7,11 @@
   <br>
 </h1>
 
+A simple game that guesses the number similar to a target
+
+![screenshot](https://s6.gifyu.com/images/ezgif.com-gif-maker99a9e0287e821943.gif)
+  <br>
+
 ## Installation 
 1. clone the repo
 2. now you can oepn the `BullzEye.xcodeproj` file :-D
