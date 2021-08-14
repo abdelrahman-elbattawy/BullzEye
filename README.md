@@ -19,7 +19,7 @@ Your goal is to place the slider as close as possible to the target value. The c
 
 ## You may also like...
 
-- [ChatApp](https://github.com/abdoelbattawy) - A Chat app
+- [ChatApp](https://github.com/abdoelbattawy/ChatApp) - A Chat app
 
 ---
 
